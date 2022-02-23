@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fifth sermon preach'd before the King and Queen in Their Majesties chappel at St. James's upon the feast of S. Francis Sales, Jan. 29, 1685/6 by Ph. Ellis.</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39283</idno>
+            <idno type="STC">Wing E594</idno>
+            <idno type="STC">ESTC R24954</idno>
+            <idno type="EEBO-CITATION">08703796</idno>
+            <idno type="OCLC">ocm 08703796</idno>
+            <idno type="VID">41588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41588)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1258:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fifth sermon preach'd before the King and Queen in Their Majesties chappel at St. James's upon the feast of S. Francis Sales, Jan. 29, 1685/6 by Ph. Ellis.</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Francis, --  de Sales, Saint, 1567-1622.</term>
+               <term>Festival-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41588:1"/>
+            <pb facs="tcp:41588:1" rendition="simple:additions"/>
+            <p>The Fifth SERMON Preach'd before the King and Queen, IN Their MAJESTIES Chappel at St. <hi>James</hi>'s, upon the <hi>FEAST</hi> of S. <hi>Francis Sales,</hi> Jan. 29. 1685/6.</p>
+            <p>By the Reverend Father <hi>Dom. PH. ELLIS,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congr. Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:41588:2"/>
+            <pb n="1" facs="tcp:41588:2"/>
+            <head>THE FIFTH SERMON Preach'd before THEIR MAJESTIES, On the Feaſt of S. <hi>Francis Sales,</hi> Jan. 29. 1685/6.</head>
+            <div type="part">
+               <head>
+                  <q>Talis decebat ut eſſet nobis Pontifex, ſanctus, innocens. <bibl>
+                        <hi>Hebr. ch.</hi> 7. <hi>v.</hi> 26.</bibl>
+                  </q>
+                  <q> It was fitting we ſhou'd have ſuch a Biſhop, holy, and innocent.</q>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Heſe words are part of that Divine Character which the Apoſtle gives of <hi>Jeſus Chriſt,</hi> the <hi>Su<g ref="char:EOLhyphen"/>pream Paſtor</hi> and <hi>Biſhop of our Souls,</hi> diſtinguiſhing him from the
+<pb n="2" facs="tcp:41588:3"/>High Prieſts of the Levitical Race, and eſtabliſhing his eternal Prieſthood ac<g ref="char:EOLhyphen"/>cording to the Order of <hi>Melchiſedec, Sanctus, Innocens.</hi> For, as it was fitting that a new Law-giver ſhou'd publiſh a new Law; ſo was it neceſſary he ſhou'd create a new Prieſthood, more perfect then the former, more excellent, not only in Power and Efficacy, but alſo in <hi>San<g ref="char:EOLhyphen"/>ctity</hi> and <hi>Innocence.</hi> And ſince this Law was to be ſo confummated in all Points, that it ſhou'd never be repeal'd or ex<g ref="char:EOLhyphen"/>cluded by a poſterior Law more per<g ref="char:EOLhyphen"/>fect then it ſelf; ſo was it fitting <hi>we ſhou'd have ſuch a Biſhop,</hi> ſo repleniſh'd with Holineſs and Innocence, as all who were to ſucceed him in the Pontifical Dignity, and Direction of Souls, might abundantly <hi>receive of his fulneſs,</hi> and ſome in every Age ſhou'd actually en<g ref="char:EOLhyphen"/>joy a larger, and more conſpicuous ſhare of his Holineſs and Innocence.</p>
+               <p>Of this number was the eminent Pre<g ref="char:EOLhyphen"/>late, to the memory of whoſe <hi>innocent</hi>
+                  <pb n="3" facs="tcp:41588:3"/>Life, and <hi>holy</hi> Converſation, the Church has appointed the preſent Solemnity. A Biſhop ſo holy and innocent, that, as he was the <hi>glory,</hi> ſo is he the <hi>reproach</hi> of this corrupt Age. For if the worſt of Times, and the moſt barren Soil, cou'd produce Innocence, and nouriſh Holi<g ref="char:EOLhyphen"/>neſs, and bring Vertue to the higheſt Maturity, how fond and frivolous are our Excuſes? how do's our Juſtification aggravate our Offence, when we ſtrive to lay our own Burthen upon our Neighbours Shoulders, and charge our voluntary Depravations upon the <hi>Ini<g ref="char:EOLhyphen"/>quity of the Times?</hi> But I argue wrong: For ſince we are ſo ready to catch at every ſhadow of an Excuſe, to palliate our Vices, and to ſhelter our Cowar<g ref="char:EOLhyphen"/>dice, not daring to offer at a good Life, or deſponding, and falling back as ſoon as we have made the firſt ſtep; therefore, <hi>Decebat ut talis eſſet;</hi> it <hi>was fitting we ſhou'd have ſuch a Paſtor</hi> to guide us, ſuch a Conqueror to lead us on, ſuch a Biſhop to encourage us,
+<pb n="4" facs="tcp:41588:4"/>ſuch a Doctor to teach us, and ſuch an Orator to perſwade us, that the Land of Promiſe is not ſo inacceſſible as falſe Spies repreſent it, that the In<g ref="char:EOLhyphen"/>habitants are not inhoſpitable, that Sanctity, and Innocence are not ſuch impracticable Vertues as the World wou'd have us believe. We have it from his <hi>Doctrine,</hi> we have it from his <hi>Practice;</hi> we cannot find a more faith<g ref="char:EOLhyphen"/>ful Account of it then in his <hi>Writings,</hi> nor can we in reaſon exact a more au<g ref="char:EOLhyphen"/>thentick Teſtimony then his <hi>Life,</hi> which mutually ſupport, and witneſs to one another; his Life was holy and inno<g ref="char:EOLhyphen"/>cent, becauſe conformable to his Do<g ref="char:EOLhyphen"/>ctrine; and his Doctrine is prov'd to be ſo, becauſe atteſted by his Life. They who admire the ſublimeneſs of his In<g ref="char:EOLhyphen"/>ſtructions, when they read them, will find them not above their own <hi>level,</hi> when they ſee him practiſe them: and ſuch as deſpair of riſing to that <hi>height,</hi> when they read his Performances, will be con<g ref="char:EOLhyphen"/>vinc'd, when they conſult his <hi>Rules,</hi> that
+<pb n="5" facs="tcp:41588:4"/>
+                  <hi>every honeſt State of Life is capable of per<g ref="char:EOLhyphen"/>fection,</hi> that is, of <hi>Sanctity</hi> and <hi>Innocence. Facere &amp; Docere,</hi> Acting and Teaching was the two-fold <hi>Innocence,</hi> the two-fold <hi>Sanctity</hi> of this Holy Man, and therefore ſhall make the two Parts of this Diſ<g ref="char:EOLhyphen"/>courſe, after we have begg'd light from above by the Interceſſion of the Mother of Innocence, Addreſſing to her more then Angelical Purity, with the Angeli<g ref="char:EOLhyphen"/>cal Salutation, <hi>AVE MARIA.</hi>
+               </p>
+               <div type="section">
+                  <head>
+                     <q>It was fitting we ſhou'd have ſuch a Biſhop, Holy, and Innocent.</q>
+                  </head>
+                  <p>I Will not trouble you with the Scho<g ref="char:EOLhyphen"/>laſtick Diſtinctions betwixt <hi>Holineſs</hi> and <hi>Innocence,</hi> or involve you in the Niceties of the Moral Philoſopher, when he marks out the Boundaries of each Vertue, and declares the difference and property: for tho' indeed Innocence im<g ref="char:EOLhyphen"/>port nothing poſitive as to the force of the word, but only an <hi>exemption from Crime,</hi> and is diſtinguiſh'd from Holineſs,
+<pb n="6" facs="tcp:41588:5"/>as the <hi>Diſpoſition</hi> from the <hi>Effect;</hi> or at the moſt, innocence being but an imper<g ref="char:EOLhyphen"/>fect Holineſs, as Holineſs is the perfecti<g ref="char:EOLhyphen"/>on of Innocence; yet becauſe the com<g ref="char:EOLhyphen"/>mon notion which Men have of this vertue, implies <hi>a purity of body and mind.</hi> I am willing to leave you in poſſeſſion of that Idea, which the Saint favours in his writings, and proceed to ſhew how eminently he poſſeſs'd it in his Perſon.</p>
+                  <p>And to begin with the inferiour part, the Body, following the Apoſtles method, <hi>primum eſt quod animale:</hi> the Spiritual Innocence being never ſo illuſtrious, as when it is ſuperſtructed upon the Cor<g ref="char:EOLhyphen"/>poral.</p>
+                  <p>But not to mention the previous Diſ<g ref="char:EOLhyphen"/>poſitions to it, as the Piety and Sanctity of his holy Parents; for tho' other Ver<g ref="char:EOLhyphen"/>tues are not tranſmitted, yet Innocence, and Chaſtity ſeem to be priviledg'd above the reſt: Not to draw any Argument from the Angelical meekneſs of his Counte<g ref="char:EOLhyphen"/>nance,
+<pb n="7" facs="tcp:41588:5"/>or Modeſty of his behaviour, be<g ref="char:EOLhyphen"/>fore Nature began to breath, or Concu<g ref="char:EOLhyphen"/>piſcence to exert it ſelf; we will repre<g ref="char:EOLhyphen"/>ſent him <hi>ex puero virum,</hi> in the bloom of Youth, in the pride of Nature, in the luſter of a moſt perfect Beauty, in the midſt of abundance of Health, Nobility, Riches, and by conſequence of Tem<g ref="char:EOLhyphen"/>ptations: And being thus Nobly attend<g ref="char:EOLhyphen"/>ed you may expect to find him in the Courts of Princes, the Sea whence all Greatneſs flows, and whether naturally it returns; being likewiſe ſo dangerouſly attended, you may expect to meet him at the Comedy, or at the Ball, or at the ordi<g ref="char:EOLhyphen"/>nary <hi>haunts</hi> of Youth; Youth which ſeems to receive the Bleſſings of God only to per<g ref="char:EOLhyphen"/>vert them into the Occaſions of ſin, ha<g ref="char:EOLhyphen"/>ving much Health, much Time, much Mony to laviſh, and in every action ſtands reſponſible to God for a <hi>threefold</hi> prodi<g ref="char:EOLhyphen"/>gality of his Favours. A Truth that made ſo deep, and ſo <hi>early</hi> an impreſſion upon our young Saint, that he was re<g ref="char:EOLhyphen"/>ſolv'd to be before hand with Nature,
+<pb n="8" facs="tcp:41588:6"/>and not to quit the poſſeſſion of <hi>Innocence,</hi> for the hazard of a future Repentance.</p>
+                  <p>He then poſſeſt what he afterwards left in Writing for our inſtruction, that Cha<g ref="char:EOLhyphen"/>ſtity is that holineſs of Life, mention'd by the Apoſtle, without which none ſhall ſee God, as St. <hi>Jerom</hi> and St. <hi>John Chriſoſt.</hi> expound. He had learn'd from the ſame Apoſtle that <hi>we are not our own, ſed ejus, qui pro nobis mortuus eſt, &amp; reſurrexit,</hi> but have paſs'd away our Title, and render'd the poſſeſſion of our ſelves to <hi>Jeſus Chriſt,</hi> whoſe glorious Body (if the Apoſtles Ar<g ref="char:EOLhyphen"/>gument hath any force) is not only a proof of our future immortality, but is alſo an emblem of the preſent incorrupti<g ref="char:EOLhyphen"/>on he requires at our hands, and which we promiſed in our Baptiſm, <hi>to be holy in Body and Spirit,</hi> that is innocent. He had learn'd that his Body muſt either be the <hi>Temple of the Holy Ghoſt,</hi> or a <hi>Den of Serpents:</hi> If the Temple of the Holy Ghoſt, then Chaſtity, and Innocence muſt be the Prieſt, and Concupiſcence the Sacrifice,
+<pb n="9" facs="tcp:41588:6"/>
+                     <hi>cujus templi ſacerdos, &amp; ſacrificatrix eſt pu<g ref="char:EOLhyphen"/>dicitia;</hi> and therefore making a vigorous effort in the very flower of his Youth, he gave the Victim a mortal blow, and laid it dead at the foot of the Altar by a vow of perpetual Chaſtity: And the grace that enabled him to make this <hi>holo<g ref="char:EOLhyphen"/>cauſt</hi> of himſelf, did ſo conſtantly attend him all the reſt of his Life, that neither the heat of Youth cou'd ever ſully the whiteneſs of the Lilly, nor the moſt wily Stratagems of the Devil damp the Odour, nor the more rude aſſaults of the World ſhake the firmneſs.</p>
+                  <p>Methinks I behold him in the poſture of the <hi>Cherubin</hi> that was plac'd at the entry of Paradiſe to render it inacceſſible to ſin. He had <hi>Wings</hi> to fly, and a <hi>Flaming Sword</hi> to reſiſt; thus doubly Armed he ſtands <hi>Sentinel</hi> to Guard the <hi>Tree of Life,</hi> his Innocence; watchful to Defend all the <hi>Avenues,</hi> his Senſes; leaſt <hi>death ſhou'd en<g ref="char:EOLhyphen"/>ter through thoſe Windows.</hi> If the Enemy Attaque him by open force, (as he did
+<pb n="10" facs="tcp:41588:7"/>more then once by Perſwaſions of cor<g ref="char:EOLhyphen"/>rupt Men, and by the importunities of abandon'd Woman) he uſes the <hi>Sword of his Zeal,</hi> either putting the Tempters to flight, or ſubduing them to Repen<g ref="char:EOLhyphen"/>tance. But if the Emiſſaries of Hell preſs ſo hard upon him that Nature inclines to take Quarter, he will not hazard the day by fighting it out, but conquers by his <hi>Wings;</hi> he flies and overcomes, as the chaſt and innocent <hi>Joſeph</hi> did, of whom St. <hi>Baſil of Seleucia</hi> ſays, <hi>fugâ utitur pro armis,</hi> his defence was in his flight, and he was truly brave becauſe he had the courage to run away. And now he returns cover'd with Glory, that is in <hi>ſecure poſ<g ref="char:EOLhyphen"/>ſeſſion of Innocence,</hi> to reproach on the one ſide our <hi>Cowardice,</hi> on the other our Raſhneſs, and <hi>Preſumption:</hi> Our Cowar<g ref="char:EOLhyphen"/>dice, that we dare not ſo much as graſp at <hi>a vertue which makes us,</hi> ſays he, <hi>al<g ref="char:EOLhyphen"/>moſt equal to the Angels,</hi> and without which we cannot be <hi>Men:</hi> Our preſum<g ref="char:EOLhyphen"/>ption, that we dare, <hi>like the ſimple In<g ref="char:EOLhyphen"/>ſect hover curiouſly about the flame to try
+<pb n="11" facs="tcp:41588:7"/>whether it be as ſweet as it is fair, till w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> periſh in the very trial.</hi> For if he that loves danger ſhall periſh in it; he that goes to meet it, loves it; he who does not remove the Occaſion from his own doors, laies a ſnare for his own Feet; he who does not eject the Scandal from under his Roof, and lodg it beyond the reach of a groun<g ref="char:EOLhyphen"/>ded ſuſpition, laies a Snare for the Feet of his Neighbour; and he who does not fly from the Net when it is ſpread in his way, is already caught.</p>
+                  <p>I have inſiſted longer upon this ground-work of Vertue, then perhaps the rules of Panegyricks will allow; but the <hi>neceſſities</hi> of my Auditory, the <hi>force</hi> of my Text, and the <hi>honour</hi> of this Saint re<g ref="char:EOLhyphen"/>quired no leſs; an uncorrupted, and in<g ref="char:EOLhyphen"/>violate Chaſtity, being ſo neceſſary a foundation to a conſummated Innocence, that without it the whole Fabrick is ru<g ref="char:EOLhyphen"/>inous, wants the ſtrength, ſymmetry, and beauty of a regular building, is always ſinking and yielding, tho' never ſo often repair'd by acts of Repentance.</p>
+                  <pb n="12" facs="tcp:41588:8"/>
+                  <p>But let us proceed from the cauſe to the effect, or rather from one link of the Chain to an other; let us contemplate the purity of the Water that flows from ſo incorrupted a Spring, preaching iſſu<g ref="char:EOLhyphen"/>ing from Practice; Innocence, teaching Holineſs;</p>
+                  <p>Your attention, and my Second Part.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Part. </seg>II</label> If Innocence be the characteriſtical Vertue of the Saint and ſhines in every action which he did; it flaſhes in every Line which he writes: If it was the Soul which animated his Works, it was the Intelligence which dictated his Words, and as a <hi>great Saint</hi> ſpeaks of a perfect Re<g ref="char:EOLhyphen"/>ligious man, <hi>vita ejus erat ſermo facti ejus,</hi> the purity of his Doctrine is only an ac<g ref="char:EOLhyphen"/>count of the purity of his Life, and both together only one continued, uninter<g ref="char:EOLhyphen"/>rupted ſeries of a <hi>Practical,</hi> and an <hi>Af<g ref="char:EOLhyphen"/>fective</hi> Innocence. If we regard his Life, we ſhall find it ſo eſtranged from the World, as if he knew it not: But if we
+<pb n="13" facs="tcp:41588:8"/>look upon his Writings, we ſhall find there ſo diſmal, and yet ſo exact an ac<g ref="char:EOLhyphen"/>count of it, as if he had Travelled thro' all its corruptions. He knew it there<g ref="char:EOLhyphen"/>fore only to condemn it, and like <hi>Moſes</hi> from the top of Mount <hi>Nebo</hi> took a view of that Country he was never to enjoy. God having reſerv'd for him <hi>a better hope;</hi> yet not taking the preſent poſ<g ref="char:EOLhyphen"/>ſeſſion out of his hands, but keeping it from his Heart. He did not call him in<g ref="char:EOLhyphen"/>to the frightful deſert with a St. <hi>Paul,</hi> a St. <hi>Anthony,</hi> a St. <hi>Bennet;</hi> he did not Command him to Sell all, and give to the Poor, with a St. <hi>Francis.</hi> The Divine wiſdom knew very Well that in an age, ſo enervated, and ſoftened with eaſe, and Luxury, <hi>few wou'd take that word,</hi> which in the beſt of us begets only a ſteril admiration; and by the moſt is look'd upon as ſo impracticable, that it is hardly credible. For tho' we are expell'd Paradiſe, yet we expect God ſhould converſe with us as before <hi>in our own likeneſs;</hi> we are aſham'd to embrace
+<pb n="14" facs="tcp:41588:9"/>a Vertue that is not in a faſhionable dreſs, and if that great Queen wou'd have us follow her, ſhe muſt appear in her natu<g ref="char:EOLhyphen"/>ral Garb, and eaſie Way, in fine Linnen and ſoft Garments; as ſhe was habited before ſinners forced her to put on Sack<g ref="char:EOLhyphen"/>cloth.</p>
+               <p>Wherefore the Divine goodneſs con<g ref="char:EOLhyphen"/>deſcending to our infirmity, and (as the Prophet ſpeaks) <hi>ſoftening the Yoke by abundance of Oyl,</hi>
+                  <note place="margin">Eſai. 10.27.</note> ſets a Pattern of Ho<g ref="char:EOLhyphen"/>lineſs before our Eyes in the Perſon of St. <hi>Francis Sales,</hi> ſo eaſie to Imitate, and Copy out, ſo adapted to all ſtates, and conditions, that it flaſhes like light in every ones Face,
+<note place="margin">Pſ. 19.7.</note> 
+                  <hi>nec eſt qui ſe abſcondat à calore ejus,</hi> and breaths ſuch a gentle warmth upon every Heart; that we are blind, if we do not ſee it; that we are inſenſible if we do not feel it; and in<g ref="char:EOLhyphen"/>excuſable if we do not follow it.</p>
+               <p>If I ſhould propoſe to the Nobility the Example of a <hi>Paulinus,</hi> or a <hi>Caſſiodorus,</hi>
+                  <pb n="15" facs="tcp:41588:9"/>ſuing to be diſcharg'd of their Honours and Imployments, as ſo many Fetters, and Impediments in their way to Hea<g ref="char:EOLhyphen"/>ven; I might diſguſt, but ſhould never perſwade: But when I bring evidence that <hi>Greatneſs</hi> in this World is not inconſiſtent with <hi>Humility,</hi> and to ſerve your King and Country in the moſt eminent ſtati<g ref="char:EOLhyphen"/>ons excludes neither <hi>Sanctity</hi> nor <hi>Inno<g ref="char:EOLhyphen"/>cence,</hi> why do you not imitate?</p>
+               <p>If I ſhould propoſe to the Courtier the Example of an <hi>Arſenius</hi> crying to you as the unknown voice did to him, <hi>ſi vis ſalvus eſſe fuge:</hi> If you wou'd be ſaved flie in<g ref="char:EOLhyphen"/>to Solitude, and hide your ſelf in the co<g ref="char:EOLhyphen"/>vert of a Rock, you wou'd think I de<g ref="char:EOLhyphen"/>ſerve that deſert whether I invite you. But while my Saint commands me to tell you, that your eſtate is not <hi>deſperate,</hi> tho' it be dangerous, and that the Lilly may floriſh among Thorns, that you may be Innocent in the midſt of Cor<g ref="char:EOLhyphen"/>ruption, why do you abandon your ſelves <hi>as thoſe that have no hope?</hi>
+               </p>
+               <pb n="16" facs="tcp:41588:10"/>
+               <p>If I ſhou'd propoſe to the Ladies a <hi>Paula</hi> melting in a continual ſtream of Tears, a <hi>Magdalen</hi> in her Grott, a <hi>Mary of Aegypt</hi> feeding upon Roots, a <hi>Fran<g ref="char:EOLhyphen"/>ciſca</hi> covered with Sack-cloth, and add to it, <hi>hoc fac, &amp; vives,</hi> this you muſt do to be Saved; I ſhou'd turn this Chappel into a valley of <hi>Tophet,</hi> the Preachers voice wou'd be drown'd with execrations upon his head, and acts of deſpair wou'd eccho from every Breaſt.</p>
+               <p>But while my Saint commands me to ſet before your Eyes a <hi>Philothea</hi> nobly Born,
+<note place="margin">St. <hi>Franc. Sales</hi> directs all his In<g ref="char:EOLhyphen"/>ſtructions in the Book of the <hi>Intro<g ref="char:EOLhyphen"/>duction to a Devout life,</hi> to every pi<g ref="char:EOLhyphen"/>ous Soul un<g ref="char:EOLhyphen"/>der the name of <hi>Philothea.</hi>
+                  </note> nicely Bred, eaſie and gentle in her Behaviour, neither ſcrupling a decency in Cloaths, nor in Attendance, allowing her ſelf an inoffenſive cheerfulneſs in Diſ<g ref="char:EOLhyphen"/>courſe, and other Recreations not unbe<g ref="char:EOLhyphen"/>coming either her Sex, or Condition; and all this without any prejudice to her Innocence, reflection upon her Reputati<g ref="char:EOLhyphen"/>on or impediment to her Sanctity; what
+<pb n="17" facs="tcp:41588:10"/>colour of excuſe is left you to cover that of your Confuſion? Why are you not merry without diſſolution, affable without effrontery, gentile without profuſeneſs? Such was <hi>Philothea.</hi> She allows you Vi<g ref="char:EOLhyphen"/>ſits, and Recreations; but not at the ex<g ref="char:EOLhyphen"/>pence of your Innocence: She allows you a good Table, but not that your Neigh<g ref="char:EOLhyphen"/>bours fame ſhou'd be the Salt to every Meat, and every thing taſt inſipid, which do's not reliſh of the Satyr. <hi>Philothea</hi> did not ſo. Why do you corrupt your lawful Diverſions into criminal exceſſes? your Apparel into a ſubject of Vanity, and oc<g ref="char:EOLhyphen"/>caſion of Scandal? and turn thoſe Riches into <hi>Oſtentation,</hi> which ought to be <hi>hid in the boſom of the poor,</hi> if you wou'd ei<g ref="char:EOLhyphen"/>ther preſerve your Innocence, redeem your offences, or perfect your Sanctity. And this was the Practiſe of <hi>Philothea.</hi> In a word, <hi>decebat ut talis eſſet,</hi> ſo ſitting and even ſo neceſſary was it to all ſtates and conditions, that when <hi>Vice</hi> began to eſtabliſh his Throne upon the ruins of <hi>Piety,</hi> when <hi>Relaxation</hi> Invaded the
+<pb n="18" facs="tcp:41588:11"/>Rights, and Uſurped the Title of <hi>Religion,</hi> when Vertue was Pictured like a fury, with Scourges in her Hands, and was as much apprehended as ſhe was before neglected, ſo fitting and even ſo neceſ<g ref="char:EOLhyphen"/>ſary, I ſay, it was the Divine providence ſhould ſhew ſuch a Biſhop to the World, whoſe Authority might convince an in<g ref="char:EOLhyphen"/>credulous Generation, and whoſe Ex<g ref="char:EOLhyphen"/>ample might encourage the weak, whoſe meekneſs might ſoften the moſt obdu<g ref="char:EOLhyphen"/>rate, whoſe advices might ſtrengthen the languiſhing hand, and inſpire the de<g ref="char:EOLhyphen"/>jected heart; and in fine, whoſe pathe<g ref="char:EOLhyphen"/>tick Exhortations might melt down the Heart of ſtone, and fetch Waters out of the hardeſt Rock; when he teaches us both by <hi>Word</hi> and <hi>Example</hi> that the way to Heaven, is neither ſo craggy nor ſo ſteep as the diſcent of Hell: that you may climb the one with leſs pains then plunge down the other: that there are pleaſures attending Innocence to which the moſt indulged Appetites can never ar<g ref="char:EOLhyphen"/>rive; that Vertue has more Charms then
+<pb n="19" facs="tcp:41588:11"/>Vice; that Sanctity is but high Reaſon, and when you live like Gentlemen you commence Saints. For what can be ſo reaſonable as to live <hi>ſoberly, juſtly, and piouſly in this World?</hi> What more gen<g ref="char:EOLhyphen"/>tile? What more ſordid and baſe then the contrary Vices? Yet in theſe Three Heads our Saint after St. <hi>Paul</hi> ſumms up all your Obligations, renders them fa<g ref="char:EOLhyphen"/>miliar by his Practice, and ſoftens them in his inſtructions.</p>
+               <p>Here the Biſhop learns how to ſupport with eaſe, the formidable burthen of his charge; the <hi>Eccleſiaſtick</hi> to perform the Duties of his Character; the <hi>Religious</hi> to maintain the Innocence of his Life; and the <hi>Secular</hi> Man experiences the facility of Vertue: The <hi>Great,</hi> and the <hi>Rich</hi> are taught the advantage of their condition, by having the power to do good to o<g ref="char:EOLhyphen"/>thers; a Godlike capacity: The <hi>Virgin</hi> is inſtructed how to ſecure that <hi>great Trea<g ref="char:EOLhyphen"/>ſure,</hi> an Angelical purity: The <hi>Married Perſon</hi> has methods laid down, how to
+<pb n="20" facs="tcp:41588:12"/>extract Antidotes out of Poyſon, and as Fiſh live in Salt-water without drawing the Brine, ſo to converſe in the great Sea of the World, without taking in either its Vanities or Corruption.</p>
+               <p>If you be a Man,
+<note place="margin">
+                     <hi>i. e.</hi> St. <hi>Francis Sales</hi>'s ad<g ref="char:EOLhyphen"/>mirable treatiſe <hi>of the Love of God.</hi>
+                  </note> you have a <hi>Theoti<g ref="char:EOLhyphen"/>mus</hi> for your Pattern; a <hi>Philothea</hi> if you be a Woman; if you aſpire to perfecti<g ref="char:EOLhyphen"/>on, what better guide can you chuſe then his <hi>love of God</hi> which riſes every line till it loſe both the Reader and it ſelf in an Ocean of Charity, till it plant the imitator in the Third Heaven? If you cannot follow ſo great a flight, deſ<g ref="char:EOLhyphen"/>pond not; you have his <hi>Introduction to a Devout life,</hi> ſo accommodated to all Capacities and Conditions, that we may without Impiety apply to it what St. <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> ſaid of the holy Scripture, <hi>ubi agnus ambulat, &amp; Elephas natat,</hi> where the Lamb walks and the Elephant ſwims; the more ſimple Reader is ſatisfied, and the more elevated underſtanding is tranſport<g ref="char:EOLhyphen"/>ed. If you are unſettled in matters of
+<pb n="21" facs="tcp:41588:12"/>Religion, read his <hi>Triumph of the Croſs,</hi> and you will ſit down abundantly con<g ref="char:EOLhyphen"/>tented, and more than ſufficiently con<g ref="char:EOLhyphen"/>vinced. If the care of others be com<g ref="char:EOLhyphen"/>mitted to you, what ſo moving as his <hi>Sermons?</hi> What ſo perſuaſive as his <hi>In<g ref="char:EOLhyphen"/>ſtructions?</hi> Smooth as the profound cur<g ref="char:EOLhyphen"/>rent, perſpicuous as the ſhallow, reſem<g ref="char:EOLhyphen"/>bling the Nile flowing with ſweetneſs, and faecundity, but comparable only to themſelves.</p>
+               <p>If you want ſpiritual comfort or ad<g ref="char:EOLhyphen"/>vice, let his <hi>Entertainments</hi> and <hi>Letters</hi> be your Counſel, which ſolve every e<g ref="char:EOLhyphen"/>mergent difficulty, diſpel every ſcruple, ſatisfie your doubts, and ſet the moſt perplext caſes in the cleareſt light.</p>
+               <p>To conclude, as <hi>out of the abundance of the Heart the Mouth ſpeaketh;</hi> ſo out of the <hi>Innocence</hi> and <hi>Sanctity</hi> of his Life, he Copied his Inſtructions. His Writ<g ref="char:EOLhyphen"/>ings are his Obelisk, his own Panegyrick: and if you imitate they are yours too,
+<pb n="22" facs="tcp:41588:13"/>if you deſire to imitate they are moſt excellent directions; but if you will not they are your Sentence and Condemna<g ref="char:EOLhyphen"/>tion.</p>
+               <p>For is it not as much your duty to em<g ref="char:EOLhyphen"/>brace <hi>Innocence,</hi> and to preſs forward to <hi>Sanctity?</hi> Is it not as much your Intereſt? Have you not the ſame Capacity, the ſame Encouragements, and Aſſiſtance? Do you want either Liberty or Grace? Neither. Do you want Knowledge, or In<g ref="char:EOLhyphen"/>ſtruction? You cannot pretend it: But if you want Will, and Application, who can you blame, but your ſelves? <hi>Perdi<g ref="char:EOLhyphen"/>tio tua ex te O Iſrael;</hi> if you fall, you caſt your ſelves down the precipice; if you periſh, it is by your own hands; <hi>Why will you die O Houſe of Iſrael? for your per<g ref="char:EOLhyphen"/>dition is from your ſelves.</hi>
+               </p>
+               <p>Our B. Maſter aſſures thoſe who tread the paths of his <hi>Sanctity</hi> and <hi>Innocence,</hi> that at their Journeys end, they ſhall re<g ref="char:EOLhyphen"/>poſe upon Thrones, and <hi>ſit judging the
+<pb n="23" facs="tcp:41588:13"/>Tribes of Iſrael;</hi> not by pronouncing ſentences of death upon them, ſays St. <hi>Jerom,</hi> but by making it evident to all mankind by the compariſon of their Lives, that ſuch as wou'd not follow the tract they had beat and ſmoothed with their own feet, ſhou'd have nothing to ſay for themſelves, why judgment might not paſs upon their convicted crimes, <hi>quia vobis credentibus illi credere noluerunt.</hi>
+               </p>
+               <p>And it is worth our ſerious and timely ſtudy to conſider what Plea we ſhall be able to make, at the ſevere Tribunal a<g ref="char:EOLhyphen"/>gainſt ſuch a cloud of Witneſſes, the Lives of ſo many Saints that will appear againſt us. Perhaps we were Ignorant of our Obligation: And have you not the ſame Law written in your Hearts, as you are Men, and the ſame Goſpel Preached unto you, as you are Chriſtians, And both the one, and the other revived and inculcated by their inſtructions, ſhewn to be practicable, and even eaſie by their Example? If it be true that <hi>qui
+<pb n="24" facs="tcp:41588:14"/>ignorat ignorabitur,</hi> he that is wilfully unknowing in the great concern of his Salvation, ſhall not be acknowledged for a Diſciple of Chriſt; he that neglects to learn either out of ſloath or prejudice, or temporal intereſt, is wilfully Ignorant; he that ſhuts his Eyes againſt the Light, is as criminal as he that Rebels againſt it, and deſerves as ſevere Chaſtiſement.</p>
+               <p>But I cou'd not practice what I knew. <hi>Erubeſce Sidon ait Mare,</hi> cover your Face that the World may not ſee you bluſh at ſuch a childiſh and unmanly Excuſe. Were not they of as noble a Birth, of as ten<g ref="char:EOLhyphen"/>der a Complection, of as nice an Edu<g ref="char:EOLhyphen"/>cation? Had not they the ſame Paſſions to bridle, the ſame Concupiſcence to war againſt, the ſame Body of Sin to conquer? But they had Grace. And how often has it been given you? How often have you ſcornfully rejected it? Have you not the ſame ſupernatural Light, the ſame holy Inſpirations? The ſame ef<g ref="char:EOLhyphen"/>ficatious Sacraments? As winning Exam<g ref="char:EOLhyphen"/>ples,
+<pb n="25" facs="tcp:41588:14"/>as Pathetick Exhortations, as vigo<g ref="char:EOLhyphen"/>rous both interiour and exteriour Helps, <hi>What cou'd I do to my Vineyard that I have not done?</hi>
+               </p>
+               <p>But I have preſſing Avocations, a tide of buſineſs, an Eſtate to raiſe, a Child to Marry, a Law ſuit to follow, a Family to provide for; and in fine ſuch impedi<g ref="char:EOLhyphen"/>ments as no body can imagin, and I can<g ref="char:EOLhyphen"/>not overcome. And are theſe the heads of your Excuſes? Are theſe your particu<g ref="char:EOLhyphen"/>lar Difficulties? Why? They are every bodies <hi>Song,</hi> a meer <hi>Narrative</hi> which is in every bodies Mouth, and which the ſloathful Man in the <hi>Proverbs</hi> delivers more compendiouſly, <hi>Leo eſt in via, There is a Lyon in the way.</hi> But they are ſo far from proving what you intend, an exemption from Holineſs, and Inno<g ref="char:EOLhyphen"/>cence, that they are convincing Argu<g ref="char:EOLhyphen"/>ments you ſtand in greater neceſſity of practiſing thoſe Vertues, and <hi>walking care<g ref="char:EOLhyphen"/>fully,</hi>
+                  <note place="margin">Caute Am<g ref="char:EOLhyphen"/>bulate.</note> (as the Apoſtle ſpeaks) becauſe you go upon a ſlippery pavement. They are Arguments indeed why you cannot
+<pb n="26" facs="tcp:41588:15"/>
+                  <hi>renounce</hi> the World, and bury your ſelves in a <hi>Cloyſter;</hi> but do not prove at all that you cannot live Innocent in the World. You cannot eſtrange your ſelves from Creatures; but cannot you with hold your affection? You cannot ſupport great corporal Auſterities; but cannot you keep the Rein upon your Appetites? You cannot ſpend whole days in Contempla<g ref="char:EOLhyphen"/>tion; but cannot you ſet apart an hour for Prayer? You cannot obſerve perpetual Silence; But cannot you refrain from broaching, or diſperſing Scandal? Can<g ref="char:EOLhyphen"/>not you moderate the flippancy of your Tongue? You cannot diſtribute all your Goods to the Poor; but cannot you re<g ref="char:EOLhyphen"/>lieve their neceſſities out of your ſuper<g ref="char:EOLhyphen"/>fluities?</p>
+               <p>You cannot ſuppreſs the eruptions of your Paſſions; but you may keep a watch over them. You cannot contain from Pleaſures that are lawful; but you may abſtain from the unlawful. You cannot depoſe the grandure of your
+<pb n="27" facs="tcp:41588:15"/>Condition, nor quit the luſtre of your State; but you may keep within the bounds of Chriſtian modeſty, and ab<g ref="char:EOLhyphen"/>Stain even <hi>from the appearance of Evil,</hi> as the Apoſtle commands.</p>
+               <p>This is the Summary of the Do<g ref="char:EOLhyphen"/>ctrine of our Saint, the <hi>Spirit</hi> of his Writings, the Sweetneſs of his Spi<g ref="char:EOLhyphen"/>rit: And how rigorous ſoever he was to his own Perſon, he commands me to tell you, if you practiſe theſe eaſie In<g ref="char:EOLhyphen"/>ſtructions, you ſhall enjoy <hi>Innocence</hi> in the midſt of Corruption; <hi>Holineſs</hi> in the midſt of Infirmities; <hi>Poverty</hi> in the midſt of Riches; and <hi>Peace</hi> in the midſt of Diſtractions; <hi>vade &amp; tu fac ſimiliter.</hi> But for your encou<g ref="char:EOLhyphen"/>ragement to believe, what your own experience can only perſwade, <hi>It was fitting we ſhou'd have ſuch a Biſhop, Holy and Innocent,</hi> whoſe <hi>Holineſs,</hi> tho' atteſted by unqueſtionable Mira<g ref="char:EOLhyphen"/>cles, yet in ſo corrupt an Age, his <hi>Innocence</hi> was the greateſt Miracle. And if he that
+<pb n="28" facs="tcp:41588:16" rendition="simple:additions"/>lives well (as St. <hi>Auguſtine</hi> aſſures us) can<g ref="char:EOLhyphen"/>not die ill; he that lives <hi>Innocent,</hi> can<g ref="char:EOLhyphen"/>not but die <hi>Holy;</hi> And therefore on the Feaſt of the <hi>Holy Innocents,</hi> he was call'd to the nuptials of the Lamb, and added to their Number. <hi>A Martyr of Love; an indefatigable Paſtour; the Apo<g ref="char:EOLhyphen"/>ſtle of his Country; the Mirrour of Chaſti<g ref="char:EOLhyphen"/>ty, Humility, Patience, and of all the gen<g ref="char:EOLhyphen"/>tile Train of peaceful Vertues; the very Manna which Heaven rain'd down upon this Age, ſavory and delicious to every Pallate that has any Taſte of Devotion; and to con<g ref="char:EOLhyphen"/>clude his Elogium, the</hi> Holy Innocent <hi>of the declining Church, as the others were of the Infant Chriſtianity; the later Crop, as the others were the firſt Fruits, col<g ref="char:EOLhyphen"/>lected into the Garners of Heaven:</hi> Whe<g ref="char:EOLhyphen"/>ther I beſeech God that you may follow him, by a ſtudious immitation of his Vertues, and an aſſiduous Lecture of his Writings;</p>
+               <closer>
+                  <hi>In the Name,</hi> &amp;c.</closer>
+               <pb facs="tcp:41588:16"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
